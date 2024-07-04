@@ -18,8 +18,6 @@
 
 HTML (HyperText Markup Language) is the standard language used to create and structure content on the web. It uses a system of tags to define elements like headings, paragraphs, links, and images. An HTML document starts with a `<!DOCTYPE html>` declaration, followed by `<html>`, `<head>` (for meta-information like the title), and `<body>` (for content displayed on the page). Common tags include `<h1>` to `<h6>` for headings, `<p>` for paragraphs, `<a>` for links, and `<img>` for images. Attributes within tags provide additional information, such as the `href` attribute in links or `src` in images. HTML is essential for web development, forming the foundation upon which CSS and JavaScript are applied to enhance styling and interactivity.
 
-The author likes to hear your opinion about the challenge, share the author by expressing your thoughts about the 30DaysOfPython challenge. You can leave your testimonial on this [link](https://testimonial-vdzd.onrender.com/)
-
 ## Why HTML ?
 
 Learning HTML (HyperText Markup Language) is beneficial for several reasons:
