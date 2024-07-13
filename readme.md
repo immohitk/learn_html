@@ -2,16 +2,15 @@
 
 |##### | Topics                                                    |
 |------|:---------------------------------------------------------:|
-| 01  |  [Introduction](./readme.md)|
-| 02  |  [Basics](./0_basic.html)|
-| 03  |  [First code](./1_hello.html)|
-| 04  |  [Structure](./2_page_structure.html)|
-| 05  |  [Tags](./3_tags.html)|
-| 06  |  [Elements](./4_elements.html)|
-| 07  |  [Attributes](./5_attributes.html)|
-| 08  |  [Comments](./6_Comments.html)|
-| 09  |  [ID and Classes](./7_Id_Classes.html)|
-| 10  |  [Inline and Block Elements](./8_inline_block_elements.html)|
+| 01  |  [Basics](./0_basic.html)|
+| 02  |  [First code](./1_hello.html)|
+| 03  |  [Structure](./2_page_structure.html)|
+| 04  |  [Tags](./3_tags.html)|
+| 05  |  [Elements](./4_elements.html)|
+| 06  |  [Attributes](./5_attributes.html)|
+| 07  |  [Comments](./6_Comments.html)|
+| 08  |  [ID and Classes](./7_Id_Classes.html)|
+| 09  |  [Inline and Block Elements](./8_inline_block_elements.html)|
 
 
 ## Introduction
