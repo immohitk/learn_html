@@ -2,15 +2,14 @@
 
 |##### | Topics                                                    |
 |------|:---------------------------------------------------------:|
-| 01  |  [Basics](./0_basic.html)|
-| 02  |  [First code](./1_hello.html)|
-| 03  |  [Structure](./2_page_structure.html)|
-| 04  |  [Tags](./3_tags.html)|
-| 05  |  [Elements](./4_elements.html)|
-| 06  |  [Attributes](./5_attributes.html)|
-| 07  |  [Comments](./6_Comments.html)|
-| 08  |  [ID and Classes](./7_Id_Classes.html)|
-| 09  |  [Inline and Block Elements](./8_inline_block_elements.html)|
+| 01  |  [Basics](./01_basics.html)|
+| 02  |  [Page Structure](./02_page_struc.html)|
+| 03  |  [Comments](./03_Comments.html)|
+| 04  |  [Tags](./04_tags.html)|
+| 05  |  [Elements](./05_elements.html)|
+| 06  |  [Attributes](./06_attributes.html)|
+| 07  |  [ID and Classes](./07_Id_Classes.html)|
+| 08  |  [Inline and Block Elements](./08_inline_block_elements.html)|
 
 
 ## Introduction
